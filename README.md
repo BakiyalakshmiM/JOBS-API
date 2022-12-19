@@ -12,3 +12,5 @@ Can get all the Job created by the user (/api/v1/jobs)
 Can get single job by providing job id (/api/v1/jobs/:id)
 Can update a Job of the user (/api/v1/jobs/:id)
 Can delete a Job of the user (/api/v1/jobs/:id)
+
+Error Handler Routes
